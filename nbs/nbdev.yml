@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kt"
+  site-url: "https://amaiya.github.io/kt"
+  description: "About"
+  repo-branch: main
+  repo-url: "https://github.com/amaiya/kt"
